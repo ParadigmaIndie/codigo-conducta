@@ -1,6 +1,6 @@
 # Código de Conducta
 
-El equipo detrás de CódigoFacilito se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de agresión para todas las personas de nuestra comunidad.
+El grupo de trabajo de ParadigmaIndie se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de agresión para todas las personas de nuestra comunidad.
 
 El código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️
 
@@ -8,16 +8,16 @@ Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
 
 ## Alcance del código de conducta
 
-Este código de conducta aplica a todos los espacios bajo el control del equipo detrás de CódigoFacilito, destacando principalmente:
+Este código de conducta aplica a todos los espacios bajo el control del equipo detrás de ParadigmaIndie, destacando principalmente:
 
 * El foro de ayuda de nuestra plataforma web y sus clientes
-* Cualquier chat en vídeos publicados o eventos en vivo de CódigoFacilito
-* Espacios creados y/o administrados por CódigoFacilito. Ej. Slack, Discord, etc
+* Cualquier chat en vídeos publicados o eventos en vivo de ParadigmaIndie
+* Espacios creados y/o administrados por ParadigmaIndie. Ej. Slack, Discord, etc
 * Otros que apliquen
 
 ## Aplicación del código de conducta
 
-Los administradores y el equipo de CódigoFacilito se comprometen a respetar y hacer valor el código de conducta para construir una comundiad libre de abuso y un espacio seguro para todas las personas.
+Los administradores y el equipo de ParadigmaIndie se comprometen a respetar y hacer valor el código de conducta para construir una comundiad libre de abuso y un espacio seguro para todas las personas.
 
 En ese sentido, quien viole el código de conducta podrá ser sancionado o expulsado por completo de la comunidad.
 
@@ -55,13 +55,13 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 * Difusión de una comunicación privada que no incluya abuso, sin la autorización de las demás personas involucradas.
 * Difusión de materiales y contenidos personales a manera de spam
 
-Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de CódigoFacilito.
+Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de ParadigmaIndie.
 
 ## Reporte de violaciones al código de conducta
 
-Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de CódigoFacilito a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de CódigoFacilito, no será involucrada en el proceso para resolver el incidente.
+Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de ParadigmaIndie a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de ParadigmaIndie, no será involucrada en el proceso para resolver el incidente.
 
-El equipo de CódigoFacilito responderá tan pronto sea posible. Si no recibes una respuesta pronta del equipo, por favor, pon tu seguridad personal y bienestar primero.
+El equipo de ParadigmaIndie responderá tan pronto sea posible. Si no recibes una respuesta pronta del equipo, por favor, pon tu seguridad personal y bienestar primero.
 
 Aunque este código de conducta aplica para los espacios de la comunidad, si sufres de un incidente de abuso de parte de uno de los miembros de la comunidad, fuera de estos espacios, también nos gustaría saberlo. Tomaremos todos los reportes de incidentes que sean realizados de buena fe, con seriedad, especialmente aquellos provenientes del equipo administrador. Esto incluye abuso fuera de nuestros espacios o abuso que haya sucedido en cualquier momento. El equipo administrador se reserva el derecho de excluir a personas de la comunidad, basándonos en su comportamiento pasado, o en comportamiento fuera de nuestros espacios, incluído a personas que no forman parte de la comunidad.
 
@@ -81,4 +81,4 @@ Este código de conducta es una adaptación del "Community Covenant (http://comm
 
 ## Mejora continua del Código de Conducta
 
-Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor abre un [issue](https://github.com/codigofacilito/codigo-conducta/issues) en este repositorio o contacta de manera privada a algún miembro del equipo de CódigoFacilito.
+Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor abre un [issue](https://github.com/codigofacilito/codigo-conducta/issues) en este repositorio o contacta de manera privada a algún miembro del equipo de ParadigmaIndie.
