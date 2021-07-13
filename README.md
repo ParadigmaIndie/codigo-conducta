@@ -59,7 +59,7 @@ Para dudas adicionales o preocupaciones acerca de algún conflicto o inconvenien
 
 ## Reporte de violaciones al código de conducta
 
-Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de ParadigmaIndie a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de ParadigmaIndie, no será involucrada en el proceso para resolver el incidente.
+Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de ParadigmaIndie a través de nuestras redes sociales o al correo de soporte en paradigmaindie@gmail.com. Si la persona involucrada en el incidente es parte del equipo de ParadigmaIndie, no será involucrada en el proceso para resolver el incidente.
 
 El equipo de ParadigmaIndie responderá tan pronto sea posible. Si no recibes una respuesta pronta del equipo, por favor, pon tu seguridad personal y bienestar primero.
 
